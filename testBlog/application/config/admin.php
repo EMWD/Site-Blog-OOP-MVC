@@ -4,7 +4,7 @@ return [
 	'0' => [
 		'login' => 'EMWD',
 		'password' => '1',
-		'admin_mail' => '',
+		'admin_mail' => 'PUT_YOUR_MAIL_HERE',
 		'admin_rank' => '1',
 	],
 
