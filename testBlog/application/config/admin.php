@@ -11,7 +11,7 @@ return [
 	'2' => [
 		'login' => 'EMRC',
 		'password' => '1',
-		'admin_mail' => 'test2@yandex.ru',
+		'admin_mail' => 'PUT_YOUR_MAIL_HERE',
 		'admin_rank' => '2',
 	],
 ];
